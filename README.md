@@ -6,7 +6,7 @@ Source code of the modified WEKA (version 3.8.1) framework for the Automated Mul
 
 **Main differences to the original version:**
 
-1) Removal of console outputs ("System.out.print" and "System.out.println")
+1) Removal of console outputs ("System.out.print" and "System.out.println") from the Bayesian Network Classifier algorithms (BayesNet).
 
 
 **If you are using this framework, please cite its papers:**
