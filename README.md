@@ -1,7 +1,7 @@
 # WEKA
 
 
-Source code of the modified WEKA (version 3.8.1) framework for the Automated Multi-Label Classification (Auto-MLC) project. The original code is available at https://www.cs.waikato.ac.nz/ml/weka/ and https://github.com/Waikato/weka-3.8.
+Source code of the modified WEKA (version 3.8.1) framework for the Automated Multi-Label Classification (Auto-MLC) project. The original code is available at https://www.cs.waikato.ac.nz/ml/weka/ and https://github.com/Waikato/weka-3.8/.
 
 
 **Main differences to the original version:**
